@@ -4,6 +4,17 @@ Dart and Flutter plugins maintained and used by [ABOUT YOU](https://aboutyou.tec
 
 We're hiring! Feel free to check out our open [positions](https://aboutyou.tech/jobs/).
 
+# RuriandFox Modifications
+
+This fork of [aboutyou/dart_packages](https://github.com/aboutyou/dart_packages) contains the following modifications:
+
+## Changes to sign_in_with_apple
+
+- Improved compatibility with iOS 14 and newer
+- Enhanced error handling during the authentication flow
+- Better integration with Firebase Authentication
+- Fixed various edge cases in the sign-in process
+
 ## Plugins
 
 Plugins in this repository:
